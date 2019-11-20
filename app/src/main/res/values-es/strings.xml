@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drawer</string>
+    <string name="navigation_drawer_open">Abrir navigationr</string>
+    <string name="navigation_drawer_close">Cerrar Navigation</string>
+    <string name="nav_header_title">Carles Ramos</string>
+    <string name="nav_header_subtitle">jcramos8282@gmail.es</string>
+    <string name="nav_header_desc">Header Navegacion</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
